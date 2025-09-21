@@ -30,9 +30,9 @@ The app contains **3 screens** as per the Figma design:
 ---
 
 ## 📂 Project Structure
-  Login&Profile/
-  ├── Model/
-  │   ├── NoteModel.swift
+Login&Profile/
+├── Model/
+│   ├── NoteModel.swift
 │   └── NoteProfile.swift
 ├── ViewModels/
 │   ├── LoginViewModel.swift
