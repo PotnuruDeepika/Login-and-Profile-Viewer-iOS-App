@@ -33,21 +33,26 @@ The app contains **3 screens** as per the Figma design:
 
 Login&Profile/
 ├── Model/
- │ ├── NoteModel.swift
+│ ├── NoteModel.swift
 │ └── NoteProfile.swift
+│
 ├── ViewModels/
 │ ├── LoginViewModel.swift
 │ ├── OTPViewModel.swift
 │ └── NotesViewModel.swift
+│
 ├── Views/
 │ ├── PhoneNumberViewController.swift
 │ ├── OTPViewController.swift
-│ └── NotesViewController.swift
+│ ├── NotesViewController.swift
 │ └── TableViewCell/
-│     ├── NoteCell.swift
-│ ├── APIManager.swift
-│ ├── APPDelegate.swift
-│ ├── SceneDelegate.swift
-│ ├── ViewController.swift
-│ └── Info.plist
+│ └── NoteCell.swift
+│
+├── Network/
+│ └── APIManager.swift
+│
+├── AppDelegate.swift
+├── SceneDelegate.swift
+├── ViewController.swift
+├── Info.plist
 └── Assets.xcassets
