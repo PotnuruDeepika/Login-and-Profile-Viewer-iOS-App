@@ -33,7 +33,7 @@ The app contains **3 screens** as per the Figma design:
 
 Login&Profile/
 ├── Model/
-│ ├── NoteModel.swift
+ │ ├── NoteModel.swift
 │ └── NoteProfile.swift
 ├── ViewModels/
 │ ├── LoginViewModel.swift
